@@ -3,7 +3,7 @@
 ## Introdução
 
 Criei esse repositório na intenção de desmistificar as ferramentas Git e Github. Aqui vou adicionar os materiais e anotações que considerar importantes ao longo do bootcamp.
-Para os devs mais experientes, desde já, agradeço a compreensão, se encontrarem alguns erros banais e puderem colaborar com dicas. Estou iniciando os estudos em programação para migração de carreira e em breve espero poder colaborar outros com os conhecimentos adquiridos.
+Para os devs mais experientes, desde já, agradeço a compreensão, se encontrarem alguns erros banais e puderem colaborar com dicas. Estou iniciando os estudos em programação para migração de carreira e em breve espero poder colaborar com outros os conhecimentos adquiridos.
 
 ## Objetivo:
 
